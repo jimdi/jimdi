@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+[linkedin](https://www.linkedin.com/in/jim-di-51379b66/)
 
-telegram: [@Jim_Di](https://t.me/jim_di)
+tg: [@Jim_Di](https://t.me/jim_di)
 
 e-mail: i@jimdi.me
 
