@@ -5,6 +5,11 @@ telegram: [@Jim_Di](https://t.me/jim_di)
 
 e-mail: i@jimdi.me
 
+Parsers, scrapers, reverse engineering
+
+Python, PostgreSQL, PostGIS, MSSQL, MySQL, PHP, JS, Git
+
+
 <!--
 **jimdi/jimdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
